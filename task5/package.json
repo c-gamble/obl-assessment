@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0",
+    "uniswap-calculator": "github:SupSwap/tvl-snapshot"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "tsx": "^4.7.1"
+  }
+}

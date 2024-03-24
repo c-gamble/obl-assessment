@@ -1,0 +1,1 @@
+For this task, I made changes directly to the ```tvl-snapshot/src/index.ts file```. My final answers are in ```rawData.json```
